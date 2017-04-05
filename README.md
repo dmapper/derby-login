@@ -1,4 +1,5 @@
 # Derby-Login
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dmapper/derby-login?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - Auth module for Derby.js
 - Derby 0.6 version is the only supported
